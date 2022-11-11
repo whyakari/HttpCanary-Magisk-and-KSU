@@ -4,9 +4,10 @@ Um módulo do Http Canary funcionando agora nas versões do Android 11+ até o A
 
 ### Screnshots
 
-![Screenshot_20221111-052221](https://user-images.githubusercontent.com/58480908/201299261-ea83036d-92f8-4ee7-b45b-33a09c0c0f17.png)
-![Screenshot_20221111-052238](https://user-images.githubusercontent.com/58480908/201299459-9b258447-05e1-47e3-8787-804b88f2f089.png)
-
+<p float="left">
+    <img src="https://user-images.githubusercontent.com/58480908/201299261-ea83036d-92f8-4ee7-b45b-33a09c0c0f17.png" width=130/>
+    <img src="https://user-images.githubusercontent.com/58480908/201299459-9b258447-05e1-47e3-8787-804b88f2f089.png" width=130/>
+</p>
 
 ### Testados em
 |Android Versões|Http Canary Versões|
