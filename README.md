@@ -1,7 +1,10 @@
 # Http Canary [MAGISK MÓDULO]
 Um módulo do Http Canary funcionando agora nas versões do Android 11+ até o Android 13.
+> Http Canary nessa versão foi empacotado com o certificado.
 
-> Http Canary empacotado com o certificado.
+### Screnshots
+
+
 
 ### Testados em
 |Android Versões|Http Canary Versões|
