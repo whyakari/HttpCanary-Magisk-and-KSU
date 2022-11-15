@@ -1,7 +1,10 @@
 ## Http Canary [MAGISK MÓDULO]
 
-![](https://img.shields.io/github/downloads/AkariOficial/HttpCanary-Magisk/total) <br>
+![](https://img.shields.io/github/downloads/AkariOficial/HttpCanary-Magisk/total)
 ![](https://img.shields.io/github/issues/AkariOficial/HttpCanary-Magisk)
+![](https://img.shields.io/github/v/tag/AkariOficial/HttpCanary-Magisk)
+![](https://img.shields.io/github/v/release/AkariOficial/HttpCanary-Magisk?include_prereleases)
+
 
 Um módulo do Http Canary funcionando agora nas versões do Android 11+ até o Android 13.
 > Http Canary nessa versão foi empacotado com o certificado.
