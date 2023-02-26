@@ -22,3 +22,11 @@ Um módulo do Http Canary funcionando agora nas versões do Android 11+ até o A
 Android 11|3.3.6 Premium
 Android 12.1|3.3.5
 Android 13|3.3.5
+
+---
+
+> if you think my work is cool or want to help me, make a small donation <3
+#### send for btc address
+```
+ bc1qut3e70aakpdqgmc6ymva9tu92gme5g7w2h75hy
+```
