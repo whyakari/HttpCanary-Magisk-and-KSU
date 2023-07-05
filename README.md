@@ -1,9 +1,14 @@
 ## Http Canary [MAGISK MODULE]
 
-![](https://img.shields.io/github/downloads/whyakari/HttpCanary-Magisk/total)
-![](https://img.shields.io/github/issues/whyakari/HttpCanary-Magisk)
-![](https://img.shields.io/github/v/tag/whyakari/HttpCanary-Magisk)
-![](https://img.shields.io/github/v/release/whyakari/HttpCanary-Magisk?include_prereleases)
+<p> 
+    <a href="https://github/downloads/whyakari/HttpCanary-Magisk/total"><img src="https://img.shields.io/github/downloads/whyakari/HttpCanary-Magisk/total?colorA=1e1e28&colorB=fedcba&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/whyakari/HttpCanary-Magisk/stargazers"><img src="https://img.shields.io/github/stars/whyakari/HttpCanary-Magisk?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/whyakari/HttpCanary-Magisk/issues"><img src="https://img.shields.io/github/issues/whyakari/HttpCanary-Magisk?colorA=1e1e28&colorB=dd577a&style=for-the-badge"></a>
+    <a href="https://github.com/whyakari/HttpCanary-Magisk/contributors"><img src="https://img.shields.io/github/contributors/whyakari/HttpCanary-Magisk?colorA=1e1e28&colorB=b0e0e6&style=for-the-badge"></a>
+    <a href="https://github.com/whyakari/HttpCanary-Magisk/releases/tag/latest">
+  <img src="https://img.shields.io/github/v/release/whyakari/HttpCanary-Magisk?colorA=1e1e28&colorB=9595ff&style=for-the-badge&logo=starship style=for-the-badge"></a>
+
+</p>
 
 An Http Canary module now working on Android versions 11+ through Android 13.
 > Http Canary in this version was bundled with the certificate.
