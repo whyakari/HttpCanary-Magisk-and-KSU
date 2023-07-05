@@ -10,7 +10,7 @@
 
 </p>
 
-An Http Canary module now working on Android versions 11+ through Android 13.
+> An Http Canary module now working on Android versions 11+ through Android 13.
 > Http Canary in this version was bundled with the certificate.
 
 ### Screenshots
