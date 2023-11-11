@@ -1,4 +1,4 @@
-## Http Canary [MAGISK MODULE]
+## Http Canary [MAGISK/KSU MODULE]
 
 <p> 
     <a href="https://github/downloads/whyakari/HttpCanary-Magisk/total"><img src="https://img.shields.io/github/downloads/whyakari/HttpCanary-Magisk/total?colorA=1e1e28&colorB=fedcba&style=for-the-badge&logo=starship style=for-the-badge"></a>
