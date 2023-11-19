@@ -1,0 +1,6 @@
+{
+    "version": "v4",
+    "versionCode": 10,
+    "zipUrl": "https://github.com/whyakari/HttpCanary-Magisk-and-KSU/releases/download/v4/HttpCanaryModule.zip",
+    "changelog": "https://raw.githubusercontent.com/whyakari/HttpCanary-Magisk-and-KSU/main/changelog.md"
+}
