@@ -1,4 +1,3 @@
-# v4
- ### Changelog
-- work with KernelSU
-- updated strings
+# v5
+Changelog
+- some changes
